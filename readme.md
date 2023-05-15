@@ -1,4 +1,6 @@
-<h1>Solving problems on daily basis: <h1>
+<h1>Hackerrank Solutions</h1>
+
+<h2>Solving problems on daily basis: <h2>
 
 <h2>https://www.hackerrank.com/MKLeo1?hr_r=1</h2>
 
